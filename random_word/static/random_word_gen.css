@@ -1,0 +1,33 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+    /* outline: 1px dotted yellowgreen; */
+}
+body {
+    border: 3px solid black;
+    width: 1000px;
+    height: 900px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.line {
+    padding: 21px;
+    width: 65%;
+    height: 9%;
+}
+h2 {
+    border: 3px solid black;
+    font-size: 47px;
+
+}
+button {
+    margin-top: 25px;
+    padding: 10px;
+    border: 4px black solid;
+    font-weight: bold;
+    font-size: larger;
+}
+p.line {
+    margin-top: 230px;
+    font-size: larger;
+}
